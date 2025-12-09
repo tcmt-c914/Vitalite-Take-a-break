@@ -2,7 +2,7 @@
 <html lang="ja">
 <head>
   <meta charset="UTF-8">
-  <title>ビジネスパーソンとともに　Vitalité</title>
+  <title>ビジネスパーソン支援ポータル</title>
   <style>
     body { font-family: Arial, sans-serif; background-color: #f9f9f9; margin: 0; }
     header, footer { background-color: #004080; color: white; text-align: center; padding: 1em; }
@@ -14,7 +14,7 @@
 </head>
 <body>
   <header>
-    <h1>ビジネスパーソンとともに　Vitalité</h1>
+    <h1>ビジネスパーソン支援ポータル</h1>
     <nav>
       <a href="#about">趣旨</a>
       <a href="#blog">ブログ</a>
@@ -25,41 +25,31 @@
 
   <section id="about">
     <h2>開設趣旨</h2>
-    <p>「複雑に入り組んだ現代社会」、まさに現代のビジネスパーソンが置かれている状況を言い表しているように思います。
-難しい上層部の要求、誰のためかわからない規制等へ対応に、スピーディなレスポンスが求められ、タスクに終わりは見えません。
-仕事の環境では、次々に登場するＩＴツールへの対応、人手不足、ハラスメントの罠をかいくぐりながらの人材育成、などなど
-それなのにリスキリングだ、ついには早退募集だと、プレイングマネージャーには心理的安全性もウェルビーイングもあったもんやない！というのが現状ではないでしょうか。
-探偵ナイトスクープのように「鋭いメスを入れ」とはいきませんが、日々の話題を共有することを通して、お互いにたった一人の騎士(ナイト)ではないことを確かめ合えるとうれしいです (^^)/
-</p>
+    <p>このサイトは、ビジネスパーソンが安心して成長できる情報とつながりを提供するために開設しました。</p>
   </section>
 
   <section id="blog">
     <h2>ニュースブログ</h2>
     <ul>
-　　<a class="button" href="https://ameblo.jp/tcmt-c914/entrylist.html" target=""_blank">ヴィーパパの徒然草</a>
+      <li><a href="#">記事タイトル1</a> - 概要テキスト</li>
+      <li><a href="#">記事タイトル2</a> - 概要テキスト</li>
     </ul>
   </section>
 
   <section id="youtube">
     <h2>出演録 & 私のYouTube</h2>
-    <a class="button" href="https://www.youtube.com/channel/UC6h2PLA3rspiYOopgnBCahQ" target="_blank">ドローン動画、プレゼン記録</a>
-    <a class="button" href="https://www.youtube.com/watch?v=dhCZKVVkplM" target="_blank">出演動画はこちら</a>
+    <a class="button" href="https://www.youtube.com/外部チャンネルURL" target="_blank">出演動画はこちら</a>
+    <a class="button" href="https://www.youtube.com/自分のチャンネルURL" target="_blank">公式チャンネル</a>
   </section>
-
-<section id="contact">
-  <h2>お問い合わせ</h2>
-  <p>ご質問やご相談はこちらまでご連絡ください：</p>
-  <a href="mailto:vitalite.co.ltd.2023@gmail.com" class="button">メールで問い合わせる</a>
-</section>
 
   <section id="partners">
     <h2>協力者リンク</h2>
-    <a class="button" href="https://reiki-yuki.crayonsite.info/" target="_blank">レイキサロン　ヴィタリテ</a>
-    <a class="button" href="https://kotono-design.com/minpakurentalspace-kotonoha/" target="_blank">古民家空間 kotonoha</a>
+    <a class="button" href="https://partner-site.com" target="_blank">◯◯さんのサイト</a>
+    <a class="button" href="https://another-partner.com" target="_blank">△△さんのサイト</a>
   </section>
 
   <footer>
-    <p>© 2025 vitalite</p>
+    <p>© 2025</p>
   </footer>
 </body>
 </html>
